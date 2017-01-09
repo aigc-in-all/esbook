@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/src/main/java/com/action/Book.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/action/BookType.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/action/ReaderType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/core/ConnDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dao/BookCaseDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dao/BookDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dao/BorrowDAO.java" charset="GBK" />
   </component>
 </project>
