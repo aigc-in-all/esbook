@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esbook.iml" filepath="$PROJECT_DIR$/.idea/modules/esbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esbook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/esbook_main.iml" group="esbook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esbook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/esbook_test.iml" group="esbook" />
+    </modules>
+  </component>
+</project>
